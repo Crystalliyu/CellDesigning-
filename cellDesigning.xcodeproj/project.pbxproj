@@ -15,6 +15,15 @@
 		020D3C7522A4F8080097FCEC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 020D3C7422A4F8080097FCEC /* main.m */; };
 		020D3C7F22A4F8080097FCEC /* cellDesigningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 020D3C7E22A4F8080097FCEC /* cellDesigningTests.m */; };
 		020D3C8A22A4F8080097FCEC /* cellDesigningUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 020D3C8922A4F8080097FCEC /* cellDesigningUITests.m */; };
+		0278871422A6535B00A23165 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0278871322A6535B00A23165 /* SecondViewController.m */; };
+		02FA369622AE291100300AA9 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369022AE291100300AA9 /* 4.jpeg */; };
+		02FA369722AE291100300AA9 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369122AE291100300AA9 /* 6.jpeg */; };
+		02FA369822AE291100300AA9 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369222AE291100300AA9 /* 1.jpeg */; };
+		02FA369922AE291100300AA9 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369322AE291100300AA9 /* 5.jpeg */; };
+		02FA369A22AE291100300AA9 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369422AE291100300AA9 /* 3.jpeg */; };
+		02FA369B22AE291100300AA9 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369522AE291100300AA9 /* 8.jpeg */; };
+		02FA369D22AE291E00300AA9 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369C22AE291E00300AA9 /* 2.jpeg */; };
+		02FA369F22AE292100300AA9 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02FA369E22AE292100300AA9 /* 7.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,16 @@
 		020D3C8522A4F8080097FCEC /* cellDesigningUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cellDesigningUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		020D3C8922A4F8080097FCEC /* cellDesigningUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cellDesigningUITests.m; sourceTree = "<group>"; };
 		020D3C8B22A4F8080097FCEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0278871322A6535B00A23165 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		0278871522A6536C00A23165 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		02FA369022AE291100300AA9 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 4.jpeg; path = ../../../../4.jpeg; sourceTree = "<group>"; };
+		02FA369122AE291100300AA9 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6.jpeg; path = ../../../../6.jpeg; sourceTree = "<group>"; };
+		02FA369222AE291100300AA9 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpeg; path = ../../../../1.jpeg; sourceTree = "<group>"; };
+		02FA369322AE291100300AA9 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 5.jpeg; path = ../../../../5.jpeg; sourceTree = "<group>"; };
+		02FA369422AE291100300AA9 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpeg; path = ../../../../3.jpeg; sourceTree = "<group>"; };
+		02FA369522AE291100300AA9 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8.jpeg; path = ../../../../8.jpeg; sourceTree = "<group>"; };
+		02FA369C22AE291E00300AA9 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpeg; path = ../../../../2.jpeg; sourceTree = "<group>"; };
+		02FA369E22AE292100300AA9 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 7.jpeg; path = ../../../../7.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +120,20 @@
 		020D3C6422A4F8060097FCEC /* cellDesigning */ = {
 			isa = PBXGroup;
 			children = (
-				020D3C6522A4F8060097FCEC /* AppDelegate.h */,
+				02FA369222AE291100300AA9 /* 1.jpeg */,
+				02FA369422AE291100300AA9 /* 3.jpeg */,
+				02FA369E22AE292100300AA9 /* 7.jpeg */,
+				02FA369022AE291100300AA9 /* 4.jpeg */,
+				02FA369322AE291100300AA9 /* 5.jpeg */,
+				02FA369122AE291100300AA9 /* 6.jpeg */,
+				02FA369C22AE291E00300AA9 /* 2.jpeg */,
+				02FA369522AE291100300AA9 /* 8.jpeg */,
 				020D3C6622A4F8060097FCEC /* AppDelegate.m */,
+				020D3C6522A4F8060097FCEC /* AppDelegate.h */,
 				020D3C6822A4F8060097FCEC /* ViewController.h */,
 				020D3C6922A4F8060097FCEC /* ViewController.m */,
+				0278871322A6535B00A23165 /* SecondViewController.m */,
+				0278871522A6536C00A23165 /* SecondViewController.h */,
 				020D3C6B22A4F8060097FCEC /* Main.storyboard */,
 				020D3C6E22A4F8080097FCEC /* Assets.xcassets */,
 				020D3C7022A4F8080097FCEC /* LaunchScreen.storyboard */,
@@ -235,8 +264,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02FA369D22AE291E00300AA9 /* 2.jpeg in Resources */,
+				02FA369722AE291100300AA9 /* 6.jpeg in Resources */,
+				02FA369822AE291100300AA9 /* 1.jpeg in Resources */,
 				020D3C7222A4F8080097FCEC /* LaunchScreen.storyboard in Resources */,
+				02FA369922AE291100300AA9 /* 5.jpeg in Resources */,
+				02FA369F22AE292100300AA9 /* 7.jpeg in Resources */,
 				020D3C6F22A4F8080097FCEC /* Assets.xcassets in Resources */,
+				02FA369B22AE291100300AA9 /* 8.jpeg in Resources */,
+				02FA369A22AE291100300AA9 /* 3.jpeg in Resources */,
+				02FA369622AE291100300AA9 /* 4.jpeg in Resources */,
 				020D3C6D22A4F8060097FCEC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,6 +299,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0278871422A6535B00A23165 /* SecondViewController.m in Sources */,
 				020D3C6A22A4F8060097FCEC /* ViewController.m in Sources */,
 				020D3C7522A4F8080097FCEC /* main.m in Sources */,
 				020D3C6722A4F8060097FCEC /* AppDelegate.m in Sources */,

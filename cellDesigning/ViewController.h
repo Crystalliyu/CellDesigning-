@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+//#import "ViewController.h"
+#import "SecondViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UITableViewController
 
-
+@property(nonatomic,strong)NSArray* stuArry;
+@property(nonatomic,strong)NSString *index;
 @end
 
